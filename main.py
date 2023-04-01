@@ -6,3 +6,14 @@ def add():
 
     result = i + b
     print(result)
+
+
+def substract():
+    a = 5
+    b = 2
+
+    result = a - b
+    print(result)
+
+    if result => 2:
+        print("accurrate")
